@@ -1,7 +1,7 @@
 # Rest API Crud
 This is a simple Crud API that is written in Ruby.
 
-### Built with
+## Built with
 - Ruby 3.2.2.
 - Ruby on Rails 7.0.6.
 
