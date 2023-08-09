@@ -11,7 +11,7 @@ This is a simple Crud API that is written in Ruby.
 - Have Ruby installed correctly.
 - Have Rails installed correctly.
 
-### Install
+### Installation
 - Get the code:
 
     ```
